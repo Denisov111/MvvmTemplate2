@@ -1,1 +1,1 @@
-MvvmTemplate
+MVVM template for Mahapps Metro
